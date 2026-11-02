@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "capture": {
+    "id": "REPLACE_WITH_BRIDGE_RECORDING_ENDPOINT_ID",
+    "mode": "capture",
+    "bridge_render_id": "REPLACE_WITH_BRIDGE_PLAYBACK_ENDPOINT_ID"
+  },
+  "buffer_ms": 120,
+  "master_gain": 0.5,
+  "outputs": [
+    { "id": "REPLACE_WITH_HEADPHONE_A_RENDER_ENDPOINT_ID", "gain": 1, "muted": false, "delay_ms": 0 },
+    { "id": "REPLACE_WITH_HEADPHONE_B_RENDER_ENDPOINT_ID", "gain": 1, "muted": false, "delay_ms": 0 }
+  ]
+}

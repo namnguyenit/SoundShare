@@ -1,0 +1,6 @@
+{
+  "protocol": 1,
+  "id": "load-config",
+  "method": "config.load",
+  "params": { "path": "D:\\soundshare\\examples\\bridge-session.json" }
+}

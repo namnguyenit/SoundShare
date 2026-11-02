@@ -1,0 +1,6 @@
+{
+  "protocol": 1,
+  "id": "open-phone",
+  "method": "receiver.open",
+  "params": { "id": "REPLACE_WITH_ID_FROM_RECEIVER_LIST", "auto_reconnect": false }
+}

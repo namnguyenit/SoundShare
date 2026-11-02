@@ -1,0 +1,10 @@
+/out/
+/.deps/
+/.vs/
+/test-results/
+*.user
+*.pdb
+.env
+.env.*
+CMakeUserPresets.json
+*.dmp
